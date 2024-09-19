@@ -12,3 +12,4 @@ c:\Users\Gunod.garig\Documents\prog2\Tamagotchi\Tamagotchi\obj\Debug\net7.0\refi
 c:\Users\Gunod.garig\Documents\prog2\Tamagotchi\Tamagotchi\obj\Debug\net7.0\Tamagotchi.pdb
 c:\Users\Gunod.garig\Documents\prog2\Tamagotchi\Tamagotchi\obj\Debug\net7.0\Tamagotchi.genruntimeconfig.cache
 c:\Users\Gunod.garig\Documents\prog2\Tamagotchi\Tamagotchi\obj\Debug\net7.0\ref\Tamagotchi.dll
+c:\Users\Gunod.garig\Documents\prog2\Tamagotchi\Tamagotchi\obj\Debug\net7.0\Tamagotchi.sourcelink.json
