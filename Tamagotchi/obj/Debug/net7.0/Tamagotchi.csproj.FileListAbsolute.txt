@@ -1,0 +1,14 @@
+c:\Users\Gunod.garig\Documents\prog2\Tamagotchi\Tamagotchi\obj\Debug\net7.0\Tamagotchi.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Gunod.garig\Documents\prog2\Tamagotchi\Tamagotchi\obj\Debug\net7.0\Tamagotchi.AssemblyInfoInputs.cache
+c:\Users\Gunod.garig\Documents\prog2\Tamagotchi\Tamagotchi\obj\Debug\net7.0\Tamagotchi.AssemblyInfo.cs
+c:\Users\Gunod.garig\Documents\prog2\Tamagotchi\Tamagotchi\obj\Debug\net7.0\Tamagotchi.csproj.CoreCompileInputs.cache
+c:\Users\Gunod.garig\Documents\prog2\Tamagotchi\Tamagotchi\bin\Debug\net7.0\Tamagotchi.exe
+c:\Users\Gunod.garig\Documents\prog2\Tamagotchi\Tamagotchi\bin\Debug\net7.0\Tamagotchi.deps.json
+c:\Users\Gunod.garig\Documents\prog2\Tamagotchi\Tamagotchi\bin\Debug\net7.0\Tamagotchi.runtimeconfig.json
+c:\Users\Gunod.garig\Documents\prog2\Tamagotchi\Tamagotchi\bin\Debug\net7.0\Tamagotchi.dll
+c:\Users\Gunod.garig\Documents\prog2\Tamagotchi\Tamagotchi\bin\Debug\net7.0\Tamagotchi.pdb
+c:\Users\Gunod.garig\Documents\prog2\Tamagotchi\Tamagotchi\obj\Debug\net7.0\Tamagotchi.dll
+c:\Users\Gunod.garig\Documents\prog2\Tamagotchi\Tamagotchi\obj\Debug\net7.0\refint\Tamagotchi.dll
+c:\Users\Gunod.garig\Documents\prog2\Tamagotchi\Tamagotchi\obj\Debug\net7.0\Tamagotchi.pdb
+c:\Users\Gunod.garig\Documents\prog2\Tamagotchi\Tamagotchi\obj\Debug\net7.0\Tamagotchi.genruntimeconfig.cache
+c:\Users\Gunod.garig\Documents\prog2\Tamagotchi\Tamagotchi\obj\Debug\net7.0\ref\Tamagotchi.dll
