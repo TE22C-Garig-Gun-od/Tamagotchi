@@ -11,7 +11,7 @@ public class Tamagotchi
 
     public void Feed()
     {
-        Console.WriteLine($"You fed {name} and it's less hungry ");
+        Console.WriteLine($"You fed {name} and it's less hungry!");
         Hunger -=4;
     }
 
@@ -19,12 +19,16 @@ public class Tamagotchi
     {
         int i = Random.Shared.Next(words.Count);
         Console.WriteLine(words[i]);
+        ReduceBoredom();
     }
 
 
     public void Teach (string word)
     {
+        
+        Console.WriteLine($"{name} learns : {word}");
         words.Add(word);
+        ReduceBoredom();
     }
 
     public void Tick()
@@ -35,7 +39,7 @@ public class Tamagotchi
 
     public void PrintStats()
     {
-        Console.WriteLine($"You have {Boredom} boredom {Hunger}  hunger!");
+        Console.WriteLine($"Name: {name} || Hunger: {Hunger} || Boredom; {Boredom} || Vocabulary: {words.Count} words");
     }
 
     public bool GetAlive()
